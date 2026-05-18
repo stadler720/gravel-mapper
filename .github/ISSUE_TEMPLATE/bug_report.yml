@@ -1,0 +1,23 @@
+name: Bug Report
+about: Something isn't working right
+title: '[BUG] '
+labels: bug
+assignees: ''
+
+body:
+  - type: textarea
+    label: What happened?
+    description: Describe the bug clearly
+    placeholder: "When I tap a road, the app crashes..."
+
+  - type: textarea
+    label: What did you expect?
+    placeholder: "I expected to see the condition report..."
+
+  - type: input
+    label: Device
+    placeholder: "iPhone 15 / Samsung Galaxy S23"
+
+  - type: input
+    label: OS version
+    placeholder: "iOS 17.4 / Android 14"
